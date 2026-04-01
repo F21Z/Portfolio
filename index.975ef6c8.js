@@ -27113,9 +27113,9 @@ var _stylesCss = require("./styles.css");
     name: "Mohammed Faizuddin",
     title: "CS UnderGrad | AI Enthusiast",
     email: "faizuddinrm@gmail.com",
-    gitHub: "https://github.com/F21Z",
-    instagram: "https://www.instagram.com/faizuddinrm/",
-    linkedIn: "https://www.linkedin.com/in/faizuddinrm/",
+    gitHub: "F21Z",
+    instagram: "faizuddinrm",
+    linkedIn: "faizuddinrm",
     medium: "",
     twitter: "",
     youTube: ""
